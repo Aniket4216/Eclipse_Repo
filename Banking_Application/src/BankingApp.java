@@ -124,6 +124,7 @@ public class BankingApp {
                         break;  
                 }  
             }  
+        //While loop for invalid choice
             while (ch != 5);  
         }  
     }  
